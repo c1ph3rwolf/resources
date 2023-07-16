@@ -14,6 +14,7 @@ Linux Resources
 Debian Installer (.deb)
 
 | Title | Description | Website | Download |
+|-----|--------------|-----|-------------------|
 | docker-desktop-4.20.1-amd64.deb | Docker Engine | [Website](https://www.docker.com/products/docker-desktop/)| [Download](https://docs.docker.com/desktop/linux/install/?_gl=1*zt8txu*_ga*MjExNjM0NTExNy4xNjg5NTQxMzEy*_ga_XJWPQMJYHQ*MTY4OTU0MTMxMS4xLjEuMTY4OTU0MTMxNi41NS4wLjA.) | 
 | FileZilla_Server_1.6.1_x86_64-linux-gnu | GUI Ftp | [Website]()  | [Download]() | 
 | GitHubDesktop-linux-3.1.7-linux1 | GUI Git Desktop | [Website](https://github.com/shiftkey/desktop/) | [Download](https://github.com/shiftkey/desktop/releases) | 
