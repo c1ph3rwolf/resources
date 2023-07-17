@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36bd6b8697586856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcfdedacaebb0d00",
+  "active": "36bd6b8697586856",
   "lastOpenFiles": [
-    "().md",
-    "README.md"
+    "how-to-decompress-tar-gz-files.md",
+    "README.md",
+    "().md"
   ]
 }
